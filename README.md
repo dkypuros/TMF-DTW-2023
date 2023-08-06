@@ -32,5 +32,6 @@ In conclusion, Grain and Cattle Farming Co.'s initiative with the digital platfo
 
 Farm 008 Location is 51°47'42.2"N 114°03'34.8"W
 
+Farm 009 Location is 51°45'04.8"N 114°04'24.8"W
 
 
